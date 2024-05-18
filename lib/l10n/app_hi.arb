@@ -1,0 +1,18 @@
+{
+    "nextDelivery": "अगली डिलीवरी बुधवार, 14 नवंबर 2020 को होगी",
+    "@nextDelivery": {
+        "description": "The convential newborn programmer greeting"
+    },
+    "title1": "पास की दुकान और उत्पाद",
+    "@title1": {
+        "description": "The convential newborn programmer greeting"
+    },
+    "login": "लॉग इन करें",
+    "@login": {
+        "description": "Login"
+    },
+    "resendCode": "पुन: कोड भेजे",
+    "@resendCode": {
+        "description": "The convential newborn programmer greeting"
+    }
+}

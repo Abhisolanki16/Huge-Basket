@@ -1,0 +1,135 @@
+{
+    "categories": [
+        {
+            "cat_id": 0,
+            "cat_name": "Dairy & Eggs",
+            "cat_img": "assets/milk.png",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 0,
+                    "sub_cat_name": "Milk",
+                    "products": [
+                        {
+                            "product_id": 0,
+                            "product_name": "Milk 1",
+                            "product_img": "assets/milk_packet1.png",
+                            "product_price": 999.99,
+                            "product_weight": "150g",
+                            "product_quantity": 50
+                        },
+                        {
+                            "product_id": 1,
+                            "product_name": "Milk 2",
+                            "product_img": "assets/milk_packet1.png",
+                            "product_price": 899.99,
+                            "product_weight": "160g",
+                            "product_quantity": 40
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 1,
+                    "sub_cat_name": "Ice Cream",
+                    "products": [
+                        {
+                            "product_id": 0,
+                            "product_name": "Ice Cream 1",
+                            "product_img": "assets/ice-cream.png",
+                            "product_price": 1499.99,
+                            "product_weight": "1.4kg",
+                            "product_quantity": 30
+                        },
+                        {
+                            "product_id": 1,
+                            "product_name": "Ice Cream 2",
+                            "product_img": "assets/ice-cream.png",
+                            "product_price": 1299.99,
+                            "product_weight": "1.2kg",
+                            "product_quantity": 25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cat_id": 1,
+            "cat_name": "Snacks",
+            "cat_img": "assets/snacks.jpg",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 0,
+                    "sub_cat_name": "Cookies",
+                    "products": [
+                        {
+                            "product_id": 0,
+                            "product_name": "Cookies 1",
+                            "product_img": "assets/snacks.jpg",
+                            "product_price": 19.99,
+                            "product_weight": "200g",
+                            "product_quantity": 100
+                        },
+                        {
+                            "product_id": 1,
+                            "product_name": "Cookies 2",
+                            "product_img": "assets/snacks.jpg",
+                            "product_price": 39.99,
+                            "product_weight": "500g",
+                            "product_quantity": 80
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cat_id": 3,
+            "cat_name": "Dairy & Eggs",
+            "cat_img": "assets/milk.png",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 0,
+                    "sub_cat_name": "Milk",
+                    "products": [
+                        {
+                            "product_id": 0,
+                            "product_name": "Milk 1",
+                            "product_img": "assets/milk_packet1.png",
+                            "product_price": 999.99,
+                            "product_weight": "150g",
+                            "product_quantity": 50
+                        },
+                        {
+                            "product_id": 1,
+                            "product_name": "Milk 2",
+                            "product_img": "assets/milk_packet1.png",
+                            "product_price": 899.99,
+                            "product_weight": "160g",
+                            "product_quantity": 40
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 1,
+                    "sub_cat_name": "Ice Cream",
+                    "products": [
+                        {
+                            "product_id": 0,
+                            "product_name": "Ice Cream 1",
+                            "product_img": "assets/ice-cream.png",
+                            "product_price": 1499.99,
+                            "product_weight": "1.4kg",
+                            "product_quantity": 30
+                        },
+                        {
+                            "product_id": 1,
+                            "product_name": "Ice Cream 2",
+                            "product_img": "assets/ice-cream.png",
+                            "product_price": 1299.99,
+                            "product_weight": "1.2kg",
+                            "product_quantity": 25
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

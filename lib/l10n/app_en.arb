@@ -1,0 +1,18 @@
+{
+    "nextDelivery": "Next delivery on Wed, 14 Nov 2020",
+    "@nextDelivery": {
+        "description": "The convential newborn programmer greeting"
+    },
+    "title1": "Near by store and Product",
+    "@title1": {
+        "description": "The convential newborn programmer greeting"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login"
+    },
+    "resendCode": "Resend Code",
+    "@resendCode": {
+        "description": "The convential newborn programmer greeting"
+    }
+}
